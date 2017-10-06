@@ -1,1 +1,1 @@
-#simple grade calculator I made for myself 
+simple grade calculator I made for myself 
