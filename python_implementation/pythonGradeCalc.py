@@ -67,3 +67,5 @@ print("Weighted midterm grade: " '%3.3f' %(midterm_weighted))
 print("Weighted final grade: " '%3.3f' %(final_weighted))
 print("========================================")
 print("Weighted term grade: " '%3.3f' %(finalGPA))
+if (finalGPA==4):
+    print("Woo hoo, you got an A!")
